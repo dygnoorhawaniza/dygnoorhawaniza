@@ -11,16 +11,16 @@ Currently building my skills through hands-on projects in data analysis, visuali
 
 ### 📂 Featured Projects
 
-**[Salifort Motors — Employee Retention](https://github.com/dygnoorhawaniza/salifort-motors-employee-retention)**
+**📊[Salifort Motors — Employee Retention](https://github.com/dygnoorhawaniza/salifort-motors-employee-retention)**
 Exploring employee data to identify factors associated with employee turnover using data analysis and machine learning.
 
-**[Marketing & Sales — ANOVA Analysis](https://github.com/dygnoorhawaniza/marketing-sales-anova-analysis)**
+**📈[Marketing & Sales — ANOVA Analysis](https://github.com/dygnoorhawaniza/marketing-sales-anova-analysis)**
 Using statistical analysis and ANOVA to examine differences in marketing and sales performance.
 
-**[NBA — Naive Bayes Player Career Prediction](https://github.com/dygnoorhawaniza/nba-naive-bayes-player-career-prediction)**
+**🏀[NBA — Naive Bayes Player Career Prediction](https://github.com/dygnoorhawaniza/nba-naive-bayes-player-career-prediction)**
 Using Naive Bayes classification to predict NBA player career outcomes based on player statistics.
 
-**[Student Performance — Excel Analysis](https://github.com/dygnoorhawaniza/student-performance_xlsl)**
+**🎓[Student Performance — Excel Analysis](https://github.com/dygnoorhawaniza/student-performance_xlsl)**
 Analyzing student performance data using Excel to identify patterns and relationships in academic results.
 
 
