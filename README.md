@@ -1,53 +1,47 @@
 # Hi, I'm Dyg 👋
 
-**Aspiring Data Analyst** who enjoys turning messy data into something easier to understand.
+**Junior Data Analyst | Data Analytics Enthusiast**
 
-📊 **Currently working with:** Excel · SQL · Power BI · Python
+I enjoy turning messy data into clear insights and making information easier to understand.
+Currently building my skills through hands-on projects in data analysis, visualization, and machine learning. 📊
 
-🌱 **Currently learning:** Data analysis & visualization
+### 🛠️ What I Work With
 
-🔎 **Interested in:** Finding patterns, solving problems & learning through projects
+`Excel` · `SQL` · `Power BI` · `Python` · `Pandas`
 
----
+### 📂 Featured Projects
 
-### 📂 Projects
-
-**[Salifort Motors — Employee Retention](./salifort-motors-employee-retention)**
-Exploring employee data to identify factors related to employee retention.
+**[🌱 Salifort Motors — Employee Retention](./salifort-motors-employee-retention)**
+Exploring employee data to identify factors associated with employee retention and understand patterns within the workforce.
 
 *Python · Pandas · Data Visualization*
 
-More projects coming soon.
+**[🏀 NBA Player Career Prediction](./nba-naive-bayes-player-career-prediction)**
+Building a machine learning classification model to predict whether an NBA player's career will last five years or more.
+
+*Python · Pandas · Scikit-learn · Naive Bayes*
+
+**[📈 Marketing Sales — ANOVA Analysis](./marketing-sales-anova-analysis)**
+Using statistical analysis to examine differences in sales across different TV promotion categories.
+
+*Python · Pandas · Statistics · ANOVA · Tukey HSD*
+
+### 🌱 Currently Learning
+
+* Data analysis & visualization
+* SQL
+* Power BI
+* Machine learning fundamentals
+* Statistical analysis
+
+### ✨ A Little More About Me
+
+I enjoy practical, hands-on learning and building things as I go.
+
+I'm currently working towards becoming a better analyst — **one project at a time.** 🌱
 
 ---
 
-### 🧰 Tools
+📫 **Let's connect**
 
-`Excel` `SQL` `Power BI` `Python` `Pandas`
-
----
-
-### 🌱 A little more about me
-
-I like practical, hands-on learning and building things as I go.
-
-Currently working on becoming a better analyst — one project at a time.
-
----
-
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/dygnoorhawaniza) · [Email](mailto:dygnoorhawaniza@gmail.com)
-
-<!--
-**dygnoorhawaniza/dygnoorhawaniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/dygnoorhawaniza) · [Email](mailto:dygnoorhawaniza@gmail.com)
