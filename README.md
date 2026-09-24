@@ -11,17 +11,17 @@ Currently building my skills through hands-on projects in data analysis, visuali
 
 ### 📂 Featured Projects
 
-**[🌱 Salifort Motors — Employee Retention](./salifort-motors-employee-retention)**
+**[🌱 Salifort Motors — Employee Retention](.salifort-motors-employee-retention)**
 Exploring employee data to identify factors associated with employee retention and understand patterns within the workforce.
 
 *Python · Pandas · Data Visualization*
 
-**[🏀 NBA Player Career Prediction](./nba-naive-bayes-player-career-prediction)**
+**[🏀 NBA Player Career Prediction](.nba-naive-bayes-player-career-prediction)**
 Building a machine learning classification model to predict whether an NBA player's career will last five years or more.
 
 *Python · Pandas · Scikit-learn · Naive Bayes*
 
-**[📈 Marketing Sales — ANOVA Analysis](./marketing-sales-anova-analysis)**
+**[📈 Marketing Sales — ANOVA Analysis](.marketing-sales-anova-analysis)**
 Using statistical analysis to examine differences in sales across different TV promotion categories.
 
 *Python · Pandas · Statistics · ANOVA · Tukey HSD*
