@@ -3,7 +3,9 @@
 **Aspiring Data Analyst** who enjoys turning messy data into something easier to understand.
 
 📊 **Currently working with:** Excel · SQL · Power BI · Python
+
 🌱 **Currently learning:** Data analysis & visualization
+
 🔎 **Interested in:** Finding patterns, solving problems & learning through projects
 
 ---
